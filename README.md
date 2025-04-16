@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hey there, I'm Shreedhar Anand!<br><br>🎓 B.Tech CSE @ IIIT Manipur (2022–2026)  <br>💻 Full-Stack Web Developer | ⚙️ Backend Enthusiast | 🤖 ML/NLP Explorer  <br>🌱 Currently learning: Backend Systems, HMM in NLP, and Real-World AI Integrations  <br>🏆 Governor’s Awardee | NPTEL Topper | 3rd Rank - Ahouba 2.0 Hackathon<br>
+ 👋 Hey there, I'm Shreedhar Anand!<br><br>🎓 B.Tech CSE @ IIIT Manipur (2022–2026)  <br>💻 Full-Stack Web Developer | ⚙️ Backend Enthusiast | 🤖 ML/NLP Explorer  <br>🌱 Currently learning: Backend Systems, HMM in NLP, and Real-World AI Integrations  <br>🏆 Governor’s Awardee | NPTEL Python Topper | 3rd Rank - Ahouba 2.0 Hackathon<br>
 
 
 ## 🌐 Socials:
